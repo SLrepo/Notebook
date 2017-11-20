@@ -1,3 +1,3 @@
-"# Notebook at WPI"
+# Notebook at WPI
 
 
